@@ -1,6 +1,6 @@
-# Boilerplate
+# Netflix
 
-2021 boilerplate utiliizing Styled Components (https://styled-components.com/), RIC (https://interfaceinterface.com/ric-a-new-approach-to-component-hierarchy/) and Storybook (https://storybook.js.org/)
+All the features I wanted to prototype and user tet at Netflix
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
