@@ -1,6 +1,6 @@
 # Netflix
 
-All the features I wanted to prototype and user tet at Netflix
+All the features I wanted to prototype and user test at Netflix
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
